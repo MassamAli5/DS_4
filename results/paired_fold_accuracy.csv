@@ -1,0 +1,16 @@
+Fold,Model,Accuracy
+1,Logistic Regression,0.5
+2,Logistic Regression,0.3333333333333333
+3,Logistic Regression,0.35
+4,Logistic Regression,0.3
+5,Logistic Regression,0.45454545454545453
+1,Random Forest,0.4
+2,Random Forest,0.2857142857142857
+3,Random Forest,0.45
+4,Random Forest,0.4
+5,Random Forest,0.2727272727272727
+1,SVM,0.4
+2,SVM,0.38095238095238093
+3,SVM,0.5
+4,SVM,0.4
+5,SVM,0.2727272727272727

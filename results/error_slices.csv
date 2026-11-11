@@ -1,0 +1,25 @@
+Model,Slice_Type,Slice,N,Errors,Error_Rate
+Logistic Regression,Mineral phase,Oolite core,35,21,0.6
+Logistic Regression,Mineral phase,Oolite Rim,27,9,0.33333333333333337
+Logistic Regression,Mineral phase,Pellet Core,20,16,0.8
+Logistic Regression,Mineral phase,Pellet Rim,21,17,0.8095238095238095
+Logistic Regression,Stratigraphic unit,LPL,21,13,0.6190476190476191
+Logistic Regression,Stratigraphic unit,MPL,33,24,0.7272727272727273
+Logistic Regression,Stratigraphic unit,UPL,49,26,0.5306122448979591
+Logistic Regression,Missingness,Complete,103,63,0.6116504854368932
+Random Forest,Mineral phase,Oolite core,35,20,0.5714285714285714
+Random Forest,Mineral phase,Oolite Rim,27,17,0.6296296296296297
+Random Forest,Mineral phase,Pellet Core,20,14,0.7
+Random Forest,Mineral phase,Pellet Rim,21,15,0.7142857142857143
+Random Forest,Stratigraphic unit,LPL,21,14,0.6666666666666667
+Random Forest,Stratigraphic unit,MPL,33,23,0.696969696969697
+Random Forest,Stratigraphic unit,UPL,49,29,0.5918367346938775
+Random Forest,Missingness,Complete,103,66,0.6407766990291262
+SVM,Mineral phase,Oolite core,35,11,0.3142857142857143
+SVM,Mineral phase,Oolite Rim,27,17,0.6296296296296297
+SVM,Mineral phase,Pellet Core,20,17,0.85
+SVM,Mineral phase,Pellet Rim,21,18,0.8571428571428572
+SVM,Stratigraphic unit,LPL,21,13,0.6190476190476191
+SVM,Stratigraphic unit,MPL,33,23,0.696969696969697
+SVM,Stratigraphic unit,UPL,49,27,0.5510204081632653
+SVM,Missingness,Complete,103,63,0.6116504854368932

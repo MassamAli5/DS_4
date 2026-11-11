@@ -1,0 +1,2 @@
+Model,Threshold,Review_Count,Review_Fraction,Wrong_Automatic,Total_Cost,Within_Capacity,Assumed_Error_Cost,Assumed_Review_Cost,Review_Capacity_Fraction,Assumed_Review_Correct
+SVM,0.3345914433079985,20,0.1941747572815534,44,240.0,True,5.0,1.0,0.2,True

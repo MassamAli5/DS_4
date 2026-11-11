@@ -1,0 +1,310 @@
+Model,Stratigraphic_unit,Point_ID,Group_ID,Fold,Actual,Predicted,Correct,Missing_Count,Top_Probability,Probability_Top_Class,Missingness
+Logistic Regression,LPL,2-1,LPL_2-1,4,Oolite core,Oolite core,True,0,0.7896128916089477,Oolite core,Complete
+Logistic Regression,LPL,2-2,LPL_2-2,2,Oolite core,Pellet Core,False,0,0.49064455342432356,Pellet Core,Complete
+Logistic Regression,LPL,2-3,LPL_2-3,3,Oolite core,Oolite core,True,0,0.8452344723634703,Oolite core,Complete
+Logistic Regression,LPL,5-1,LPL_5-1,3,Oolite core,Oolite core,True,0,0.5567715185952331,Oolite core,Complete
+Logistic Regression,LPL,5-2,LPL_5-2,1,Oolite core,Pellet Core,False,0,0.9334595523251235,Pellet Core,Complete
+Logistic Regression,LPL,5-3,LPL_5-3,1,Oolite core,Oolite core,True,0,0.4644070045261034,Oolite core,Complete
+Logistic Regression,LPL,6-1,LPL_6-1,2,Oolite core,Oolite Rim,False,0,0.49530727252886025,Oolite Rim,Complete
+Logistic Regression,LPL,6-2,LPL_6-2,1,Oolite core,Oolite core,True,0,0.42608769827724924,Oolite core,Complete
+Logistic Regression,LPL,4-1,LPL_4-1,4,Oolite Rim,Oolite core,False,0,0.6523537924416114,Oolite core,Complete
+Logistic Regression,LPL,4-2,LPL_4-2,2,Oolite Rim,Oolite Rim,True,0,0.6619616105225746,Oolite Rim,Complete
+Logistic Regression,LPL,7-1,LPL_7-1,3,Oolite Rim,Oolite core,False,0,0.5292680351158682,Oolite core,Complete
+Logistic Regression,LPL,7-2,LPL_7-2,2,Oolite Rim,Oolite core,False,0,0.9690751838147256,Oolite core,Complete
+Logistic Regression,LPL,8-1,LPL_8-1,4,Oolite Rim,Oolite Rim,True,0,0.8631096774439081,Oolite Rim,Complete
+Logistic Regression,LPL,8-2,LPL_8-2,1,Oolite Rim,Oolite Rim,True,0,0.8798616078926436,Oolite Rim,Complete
+Logistic Regression,LPL,4-1,LPL_4-1,4,Pellet Core,Pellet Rim,False,0,0.4033876808094586,Pellet Rim,Complete
+Logistic Regression,LPL,4-2,LPL_4-2,2,Pellet Core,Oolite core,False,0,0.8866607245872505,Oolite core,Complete
+Logistic Regression,LPL,5-1,LPL_5-1,3,Pellet Core,Oolite Rim,False,0,0.9870477545462584,Oolite Rim,Complete
+Logistic Regression,LPL,9-1,LPL_9-1,5,Pellet Rim,Pellet Core,False,0,0.493002513028526,Pellet Core,Complete
+Logistic Regression,LPL,9-2,LPL_9-2,4,Pellet Rim,Oolite core,False,0,0.7820614688335186,Oolite core,Complete
+Logistic Regression,LPL,6-1,LPL_6-1,2,Pellet Rim,Pellet Core,False,0,0.9968355651492368,Pellet Core,Complete
+Logistic Regression,LPL,6-2,LPL_6-2,1,Pellet Rim,Pellet Core,False,0,0.999999975608766,Pellet Core,Complete
+Logistic Regression,MPL,11-1,MPL_11-1,1,Oolite core,Pellet Rim,False,0,0.9990938551435309,Pellet Rim,Complete
+Logistic Regression,MPL,11-2,MPL_11-2,3,Oolite core,Pellet Rim,False,0,0.9363655028614557,Pellet Rim,Complete
+Logistic Regression,MPL,12-1,MPL_12-1,4,Oolite core,Pellet Rim,False,0,0.8007836676651676,Pellet Rim,Complete
+Logistic Regression,MPL,12-2,MPL_12-2,5,Oolite core,Oolite Rim,False,0,0.9996188526408005,Oolite Rim,Complete
+Logistic Regression,MPL,14-1,MPL_14-1,4,Oolite core,Oolite Rim,False,0,0.6326952157110145,Oolite Rim,Complete
+Logistic Regression,MPL,14-2,MPL_14-2,3,Oolite core,Pellet Rim,False,0,0.5451937174912065,Pellet Rim,Complete
+Logistic Regression,MPL,15-1,MPL_15-1,1,Oolite core,Oolite core,True,0,0.9618612369177789,Oolite core,Complete
+Logistic Regression,MPL,15-2,MPL_15-2,5,Oolite core,Oolite Rim,False,0,0.5524891839411067,Oolite Rim,Complete
+Logistic Regression,MPL,17-1,MPL_17-1,2,Oolite core,Oolite Rim,False,0,0.5656403586944807,Oolite Rim,Complete
+Logistic Regression,MPL,17-2,MPL_17-2,2,Oolite core,Oolite core,True,0,0.548621760598887,Oolite core,Complete
+Logistic Regression,MPL,13-1,MPL_13-1,5,Oolite Rim,Oolite Rim,True,0,0.9048165798440673,Oolite Rim,Complete
+Logistic Regression,MPL,13-2,MPL_13-2,1,Oolite Rim,Oolite Rim,True,0,0.7312326428127205,Oolite Rim,Complete
+Logistic Regression,MPL,16-1,MPL_16-1,4,Oolite Rim,Pellet Core,False,0,0.8240287218742964,Pellet Core,Complete
+Logistic Regression,MPL,16-2,MPL_16-2,1,Oolite Rim,Oolite core,False,0,0.9678343568172703,Oolite core,Complete
+Logistic Regression,MPL,18-1,MPL_18-1,2,Oolite Rim,Oolite Rim,True,0,0.864903311133195,Oolite Rim,Complete
+Logistic Regression,MPL,18-2,MPL_18-2,2,Oolite Rim,Oolite core,False,0,0.9090345763557818,Oolite core,Complete
+Logistic Regression,MPL,20-1,MPL_20-1,3,Oolite Rim,Pellet Rim,False,0,0.5135973539585909,Pellet Rim,Complete
+Logistic Regression,MPL,13-1,MPL_13-1,5,Pellet Core,Oolite Rim,False,0,0.9997905807704557,Oolite Rim,Complete
+Logistic Regression,MPL,13-2,MPL_13-2,1,Pellet Core,Pellet Core,True,0,0.5243572937185362,Pellet Core,Complete
+Logistic Regression,MPL,14-1,MPL_14-1,4,Pellet Core,Pellet Rim,False,0,0.9168623615291589,Pellet Rim,Complete
+Logistic Regression,MPL,14-2,MPL_14-2,3,Pellet Core,Pellet Core,True,0,0.582508840358113,Pellet Core,Complete
+Logistic Regression,MPL,15-1,MPL_15-1,1,Pellet Core,Pellet Core,True,0,0.6660717134181204,Pellet Core,Complete
+Logistic Regression,MPL,15-2,MPL_15-2,5,Pellet Core,Oolite Rim,False,0,0.9853508750011187,Oolite Rim,Complete
+Logistic Regression,MPL,17-1,MPL_17-1,2,Pellet Core,Pellet Rim,False,0,0.9976608580903958,Pellet Rim,Complete
+Logistic Regression,MPL,17-2,MPL_17-2,2,Pellet Core,Pellet Rim,False,0,0.8868160316485287,Pellet Rim,Complete
+Logistic Regression,MPL,19-1,MPL_19-1,2,Pellet Rim,Oolite Rim,False,0,0.8865481065043352,Oolite Rim,Complete
+Logistic Regression,MPL,19-2,MPL_19-2,2,Pellet Rim,Pellet Core,False,0,0.8009000083934585,Pellet Core,Complete
+Logistic Regression,MPL,20-1,MPL_20-1,3,Pellet Rim,Pellet Core,False,0,0.7872832012384012,Pellet Core,Complete
+Logistic Regression,MPL,20-2,MPL_20-2,1,Pellet Rim,Pellet Core,False,0,0.6130795052833633,Pellet Core,Complete
+Logistic Regression,MPL,20-3,MPL_20-3,1,Pellet Rim,Pellet Rim,True,0,0.7976854910045872,Pellet Rim,Complete
+Logistic Regression,MPL,21-1,MPL_21-1,3,Pellet Rim,Pellet Core,False,0,0.9916435631520736,Pellet Core,Complete
+Logistic Regression,MPL,21-2,MPL_21-2,4,Pellet Rim,Pellet Core,False,0,0.7577843448460474,Pellet Core,Complete
+Logistic Regression,MPL,21-3,MPL_21-3,3,Pellet Rim,Pellet Core,False,0,0.7787181896731281,Pellet Core,Complete
+Logistic Regression,UPL,22-1,UPL_22-1,5,Oolite core,Pellet Rim,False,0,0.999314693251029,Pellet Rim,Complete
+Logistic Regression,UPL,22-2,UPL_22-2,3,Oolite core,Oolite Rim,False,0,0.9053591209715244,Oolite Rim,Complete
+Logistic Regression,UPL,22-3,UPL_22-3,3,Oolite core,Oolite Rim,False,0,0.9477607699700084,Oolite Rim,Complete
+Logistic Regression,UPL,23-1,UPL_23-1,1,Oolite core,Pellet Rim,False,0,0.7118705046500747,Pellet Rim,Complete
+Logistic Regression,UPL,23-2,UPL_23-2,5,Oolite core,Oolite core,True,0,0.6616601563144923,Oolite core,Complete
+Logistic Regression,UPL,23-3,UPL_23-3,2,Oolite core,Oolite core,True,0,0.9843501873381052,Oolite core,Complete
+Logistic Regression,UPL,24-1,UPL_24-1,4,Oolite core,Oolite Rim,False,0,0.6265952415340115,Oolite Rim,Complete
+Logistic Regression,UPL,24-2,UPL_24-2,4,Oolite core,Oolite Rim,False,0,0.7678579816010699,Oolite Rim,Complete
+Logistic Regression,UPL,24-3,UPL_24-3,4,Oolite core,Oolite core,True,0,0.6437910928287602,Oolite core,Complete
+Logistic Regression,UPL,25-1,UPL_25-1,2,Oolite core,Oolite core,True,0,0.9519512144820993,Oolite core,Complete
+Logistic Regression,UPL,25-2,UPL_25-2,3,Oolite core,Oolite Rim,False,0,0.9922126047761424,Oolite Rim,Complete
+Logistic Regression,UPL,25-3,UPL_25-3,5,Oolite core,Oolite core,True,0,0.9703779068289997,Oolite core,Complete
+Logistic Regression,UPL,26-1,UPL_26-1,5,Oolite core,Oolite Rim,False,0,0.8541271900757704,Oolite Rim,Complete
+Logistic Regression,UPL,26-2,UPL_26-2,1,Oolite core,Oolite Rim,False,0,0.7143220082904557,Oolite Rim,Complete
+Logistic Regression,UPL,28-1,UPL_28-1,2,Oolite core,Oolite Rim,False,0,1.0,Oolite Rim,Complete
+Logistic Regression,UPL,28-2,UPL_28-2,4,Oolite core,Oolite core,True,0,0.645204003801003,Oolite core,Complete
+Logistic Regression,UPL,29-1,UPL_29-1,5,Oolite core,Oolite core,True,0,0.9500783717314475,Oolite core,Complete
+Logistic Regression,UPL,22-1,UPL_22-1,5,Oolite Rim,Oolite Rim,True,0,0.998116311858953,Oolite Rim,Complete
+Logistic Regression,UPL,22-2,UPL_22-2,3,Oolite Rim,Oolite Rim,True,0,0.6896634958234462,Oolite Rim,Complete
+Logistic Regression,UPL,23-1,UPL_23-1,1,Oolite Rim,Oolite Rim,True,0,0.9824356342388761,Oolite Rim,Complete
+Logistic Regression,UPL,23-2,UPL_23-2,5,Oolite Rim,Oolite Rim,True,0,0.8490622952425619,Oolite Rim,Complete
+Logistic Regression,UPL,25-1,UPL_25-1,2,Oolite Rim,Oolite Rim,True,0,0.8734284825373835,Oolite Rim,Complete
+Logistic Regression,UPL,25-2,UPL_25-2,3,Oolite Rim,Oolite Rim,True,0,0.7518904794758883,Oolite Rim,Complete
+Logistic Regression,UPL,26-1,UPL_26-1,5,Oolite Rim,Oolite Rim,True,0,0.8005522027741907,Oolite Rim,Complete
+Logistic Regression,UPL,26-2,UPL_26-2,1,Oolite Rim,Pellet Rim,False,0,0.8322717815830509,Pellet Rim,Complete
+Logistic Regression,UPL,27-1,UPL_27-1,3,Oolite Rim,Oolite Rim,True,0,0.8146302649198425,Oolite Rim,Complete
+Logistic Regression,UPL,27-2,UPL_27-2,5,Oolite Rim,Oolite Rim,True,0,0.9440600203305237,Oolite Rim,Complete
+Logistic Regression,UPL,28-1,UPL_28-1,2,Oolite Rim,Oolite Rim,True,0,0.7168974151828518,Oolite Rim,Complete
+Logistic Regression,UPL,28-2,UPL_28-2,4,Oolite Rim,Oolite Rim,True,0,0.8908086122329529,Oolite Rim,Complete
+Logistic Regression,UPL,29-1,UPL_29-1,5,Oolite Rim,Oolite core,False,0,0.3420256619587601,Oolite core,Complete
+Logistic Regression,UPL,29-2,UPL_29-2,5,Oolite Rim,Oolite Rim,True,0,0.8269195841486894,Oolite Rim,Complete
+Logistic Regression,UPL,23-1,UPL_23-1,1,Pellet Core,Pellet Core,True,0,0.7358716748456181,Pellet Core,Complete
+Logistic Regression,UPL,23-2,UPL_23-2,5,Pellet Core,Pellet Rim,False,0,0.9896002965198486,Pellet Rim,Complete
+Logistic Regression,UPL,24-1,UPL_24-1,4,Pellet Core,Pellet Rim,False,0,0.8243021454167163,Pellet Rim,Complete
+Logistic Regression,UPL,24-2,UPL_24-2,4,Pellet Core,Pellet Rim,False,0,0.9833820981399748,Pellet Rim,Complete
+Logistic Regression,UPL,25-1,UPL_25-1,2,Pellet Core,Oolite core,False,0,0.8729998464049354,Oolite core,Complete
+Logistic Regression,UPL,25-2,UPL_25-2,3,Pellet Core,Pellet Rim,False,0,0.9852012493076988,Pellet Rim,Complete
+Logistic Regression,UPL,27-1,UPL_27-1,3,Pellet Core,Pellet Rim,False,0,0.9689402817647785,Pellet Rim,Complete
+Logistic Regression,UPL,27-2,UPL_27-2,5,Pellet Core,Oolite core,False,0,0.999884081188177,Oolite core,Complete
+Logistic Regression,UPL,27-3,UPL_27-3,1,Pellet Core,Pellet Rim,False,0,0.7374694225986834,Pellet Rim,Complete
+Logistic Regression,UPL,24-1,UPL_24-1,4,Pellet Rim,Oolite Rim,False,0,0.49608976033747915,Oolite Rim,Complete
+Logistic Regression,UPL,24-2,UPL_24-2,4,Pellet Rim,Oolite core,False,0,0.7571212405158886,Oolite core,Complete
+Logistic Regression,UPL,24-3,UPL_24-3,4,Pellet Rim,Pellet Rim,True,0,0.4943877813369346,Pellet Rim,Complete
+Logistic Regression,UPL,27-1,UPL_27-1,3,Pellet Rim,Pellet Rim,True,0,0.9334112836487244,Pellet Rim,Complete
+Logistic Regression,UPL,27-2,UPL_27-2,5,Pellet Rim,Pellet Rim,True,0,0.9570813127777773,Pellet Rim,Complete
+Logistic Regression,UPL,27-3,UPL_27-3,1,Pellet Rim,Pellet Core,False,0,0.9928790913601251,Pellet Core,Complete
+Logistic Regression,UPL,29-1,UPL_29-1,5,Pellet Rim,Oolite core,False,0,0.9606652742838107,Oolite core,Complete
+Logistic Regression,UPL,29-2,UPL_29-2,5,Pellet Rim,Oolite core,False,0,0.9996033376499254,Oolite core,Complete
+Logistic Regression,UPL,29-3,UPL_29-3,2,Pellet Rim,Pellet Core,False,0,0.9596306147955083,Pellet Core,Complete
+Random Forest,LPL,2-1,LPL_2-1,4,Oolite core,Oolite core,True,0,0.375,Oolite core,Complete
+Random Forest,LPL,2-2,LPL_2-2,2,Oolite core,Pellet Rim,False,0,0.3,Pellet Rim,Complete
+Random Forest,LPL,2-3,LPL_2-3,3,Oolite core,Oolite Rim,False,0,0.515,Oolite Rim,Complete
+Random Forest,LPL,5-1,LPL_5-1,3,Oolite core,Oolite core,True,0,0.585,Oolite core,Complete
+Random Forest,LPL,5-2,LPL_5-2,1,Oolite core,Oolite core,True,0,0.51,Oolite core,Complete
+Random Forest,LPL,5-3,LPL_5-3,1,Oolite core,Oolite core,True,0,0.46,Oolite core,Complete
+Random Forest,LPL,6-1,LPL_6-1,2,Oolite core,Oolite Rim,False,0,0.53,Oolite Rim,Complete
+Random Forest,LPL,6-2,LPL_6-2,1,Oolite core,Oolite Rim,False,0,0.53,Oolite Rim,Complete
+Random Forest,LPL,4-1,LPL_4-1,4,Oolite Rim,Oolite core,False,0,0.525,Oolite core,Complete
+Random Forest,LPL,4-2,LPL_4-2,2,Oolite Rim,Oolite Rim,True,0,0.605,Oolite Rim,Complete
+Random Forest,LPL,7-1,LPL_7-1,3,Oolite Rim,Oolite core,False,0,0.47,Oolite core,Complete
+Random Forest,LPL,7-2,LPL_7-2,2,Oolite Rim,Oolite core,False,0,0.6,Oolite core,Complete
+Random Forest,LPL,8-1,LPL_8-1,4,Oolite Rim,Oolite core,False,0,0.49,Oolite core,Complete
+Random Forest,LPL,8-2,LPL_8-2,1,Oolite Rim,Oolite Rim,True,0,0.545,Oolite Rim,Complete
+Random Forest,LPL,4-1,LPL_4-1,4,Pellet Core,Pellet Core,True,0,0.415,Pellet Core,Complete
+Random Forest,LPL,4-2,LPL_4-2,2,Pellet Core,Oolite core,False,0,0.435,Oolite core,Complete
+Random Forest,LPL,5-1,LPL_5-1,3,Pellet Core,Oolite core,False,0,0.465,Oolite core,Complete
+Random Forest,LPL,9-1,LPL_9-1,5,Pellet Rim,Pellet Core,False,0,0.475,Pellet Core,Complete
+Random Forest,LPL,9-2,LPL_9-2,4,Pellet Rim,Oolite core,False,0,0.53,Oolite core,Complete
+Random Forest,LPL,6-1,LPL_6-1,2,Pellet Rim,Pellet Core,False,0,0.555,Pellet Core,Complete
+Random Forest,LPL,6-2,LPL_6-2,1,Pellet Rim,Pellet Core,False,0,0.57,Pellet Core,Complete
+Random Forest,MPL,11-1,MPL_11-1,1,Oolite core,Oolite Rim,False,0,0.37,Oolite Rim,Complete
+Random Forest,MPL,11-2,MPL_11-2,3,Oolite core,Oolite core,True,0,0.42,Oolite core,Complete
+Random Forest,MPL,12-1,MPL_12-1,4,Oolite core,Pellet Core,False,0,0.49,Pellet Core,Complete
+Random Forest,MPL,12-2,MPL_12-2,5,Oolite core,Oolite Rim,False,0,0.48,Oolite Rim,Complete
+Random Forest,MPL,14-1,MPL_14-1,4,Oolite core,Pellet Core,False,0,0.46,Pellet Core,Complete
+Random Forest,MPL,14-2,MPL_14-2,3,Oolite core,Oolite core,True,0,0.415,Oolite core,Complete
+Random Forest,MPL,15-1,MPL_15-1,1,Oolite core,Oolite core,True,0,0.525,Oolite core,Complete
+Random Forest,MPL,15-2,MPL_15-2,5,Oolite core,Pellet Core,False,0,0.305,Pellet Core,Complete
+Random Forest,MPL,17-1,MPL_17-1,2,Oolite core,Oolite Rim,False,0,0.46,Oolite Rim,Complete
+Random Forest,MPL,17-2,MPL_17-2,2,Oolite core,Oolite core,True,0,0.56,Oolite core,Complete
+Random Forest,MPL,13-1,MPL_13-1,5,Oolite Rim,Oolite core,False,0,0.485,Oolite core,Complete
+Random Forest,MPL,13-2,MPL_13-2,1,Oolite Rim,Oolite Rim,True,0,0.44,Oolite Rim,Complete
+Random Forest,MPL,16-1,MPL_16-1,4,Oolite Rim,Pellet Core,False,0,0.385,Pellet Core,Complete
+Random Forest,MPL,16-2,MPL_16-2,1,Oolite Rim,Oolite core,False,0,0.415,Oolite core,Complete
+Random Forest,MPL,18-1,MPL_18-1,2,Oolite Rim,Oolite Rim,True,0,0.615,Oolite Rim,Complete
+Random Forest,MPL,18-2,MPL_18-2,2,Oolite Rim,Oolite core,False,0,0.52,Oolite core,Complete
+Random Forest,MPL,20-1,MPL_20-1,3,Oolite Rim,Pellet Core,False,0,0.38,Pellet Core,Complete
+Random Forest,MPL,13-1,MPL_13-1,5,Pellet Core,Oolite Rim,False,0,0.28,Oolite Rim,Complete
+Random Forest,MPL,13-2,MPL_13-2,1,Pellet Core,Pellet Rim,False,0,0.41,Pellet Rim,Complete
+Random Forest,MPL,14-1,MPL_14-1,4,Pellet Core,Pellet Rim,False,0,0.705,Pellet Rim,Complete
+Random Forest,MPL,14-2,MPL_14-2,3,Pellet Core,Pellet Rim,False,0,0.47,Pellet Rim,Complete
+Random Forest,MPL,15-1,MPL_15-1,1,Pellet Core,Pellet Rim,False,0,0.625,Pellet Rim,Complete
+Random Forest,MPL,15-2,MPL_15-2,5,Pellet Core,Pellet Core,True,0,0.405,Pellet Core,Complete
+Random Forest,MPL,17-1,MPL_17-1,2,Pellet Core,Pellet Rim,False,0,0.46,Pellet Rim,Complete
+Random Forest,MPL,17-2,MPL_17-2,2,Pellet Core,Pellet Rim,False,0,0.43,Pellet Rim,Complete
+Random Forest,MPL,19-1,MPL_19-1,2,Pellet Rim,Oolite core,False,0,0.5,Oolite core,Complete
+Random Forest,MPL,19-2,MPL_19-2,2,Pellet Rim,Pellet Core,False,0,0.575,Pellet Core,Complete
+Random Forest,MPL,20-1,MPL_20-1,3,Pellet Rim,Pellet Rim,True,0,0.465,Pellet Rim,Complete
+Random Forest,MPL,20-2,MPL_20-2,1,Pellet Rim,Pellet Core,False,0,0.53,Pellet Core,Complete
+Random Forest,MPL,20-3,MPL_20-3,1,Pellet Rim,Pellet Rim,True,0,0.57,Pellet Rim,Complete
+Random Forest,MPL,21-1,MPL_21-1,3,Pellet Rim,Pellet Rim,True,0,0.465,Pellet Rim,Complete
+Random Forest,MPL,21-2,MPL_21-2,4,Pellet Rim,Oolite Rim,False,0,0.365,Oolite Rim,Complete
+Random Forest,MPL,21-3,MPL_21-3,3,Pellet Rim,Pellet Core,False,0,0.465,Pellet Core,Complete
+Random Forest,UPL,22-1,UPL_22-1,5,Oolite core,Pellet Rim,False,0,0.52,Pellet Rim,Complete
+Random Forest,UPL,22-2,UPL_22-2,3,Oolite core,Oolite Rim,False,0,0.4,Oolite Rim,Complete
+Random Forest,UPL,22-3,UPL_22-3,3,Oolite core,Oolite Rim,False,0,0.605,Oolite Rim,Complete
+Random Forest,UPL,23-1,UPL_23-1,1,Oolite core,Oolite Rim,False,0,0.465,Oolite Rim,Complete
+Random Forest,UPL,23-2,UPL_23-2,5,Oolite core,Oolite core,True,0,0.43,Oolite core,Complete
+Random Forest,UPL,23-3,UPL_23-3,2,Oolite core,Oolite Rim,False,0,0.52,Oolite Rim,Complete
+Random Forest,UPL,24-1,UPL_24-1,4,Oolite core,Oolite core,True,0,0.555,Oolite core,Complete
+Random Forest,UPL,24-2,UPL_24-2,4,Oolite core,Oolite core,True,0,0.47,Oolite core,Complete
+Random Forest,UPL,24-3,UPL_24-3,4,Oolite core,Oolite Rim,False,0,0.35,Oolite Rim,Complete
+Random Forest,UPL,25-1,UPL_25-1,2,Oolite core,Oolite core,True,0,0.395,Oolite core,Complete
+Random Forest,UPL,25-2,UPL_25-2,3,Oolite core,Oolite Rim,False,0,0.495,Oolite Rim,Complete
+Random Forest,UPL,25-3,UPL_25-3,5,Oolite core,Oolite Rim,False,0,0.615,Oolite Rim,Complete
+Random Forest,UPL,26-1,UPL_26-1,5,Oolite core,Oolite core,True,0,0.45,Oolite core,Complete
+Random Forest,UPL,26-2,UPL_26-2,1,Oolite core,Oolite Rim,False,0,0.505,Oolite Rim,Complete
+Random Forest,UPL,28-1,UPL_28-1,2,Oolite core,Oolite Rim,False,0,0.43,Oolite Rim,Complete
+Random Forest,UPL,28-2,UPL_28-2,4,Oolite core,Oolite core,True,0,0.45,Oolite core,Complete
+Random Forest,UPL,29-1,UPL_29-1,5,Oolite core,Oolite core,True,0,0.53,Oolite core,Complete
+Random Forest,UPL,22-1,UPL_22-1,5,Oolite Rim,Oolite Rim,True,0,0.46,Oolite Rim,Complete
+Random Forest,UPL,22-2,UPL_22-2,3,Oolite Rim,Oolite Rim,True,0,0.56,Oolite Rim,Complete
+Random Forest,UPL,23-1,UPL_23-1,1,Oolite Rim,Oolite Rim,True,0,0.575,Oolite Rim,Complete
+Random Forest,UPL,23-2,UPL_23-2,5,Oolite Rim,Oolite core,False,0,0.47,Oolite core,Complete
+Random Forest,UPL,25-1,UPL_25-1,2,Oolite Rim,Oolite Rim,True,0,0.45,Oolite Rim,Complete
+Random Forest,UPL,25-2,UPL_25-2,3,Oolite Rim,Oolite core,False,0,0.46,Oolite core,Complete
+Random Forest,UPL,26-1,UPL_26-1,5,Oolite Rim,Oolite core,False,0,0.555,Oolite core,Complete
+Random Forest,UPL,26-2,UPL_26-2,1,Oolite Rim,Oolite core,False,0,0.385,Oolite core,Complete
+Random Forest,UPL,27-1,UPL_27-1,3,Oolite Rim,Oolite Rim,True,0,0.515,Oolite Rim,Complete
+Random Forest,UPL,27-2,UPL_27-2,5,Oolite Rim,Oolite core,False,0,0.59,Oolite core,Complete
+Random Forest,UPL,28-1,UPL_28-1,2,Oolite Rim,Oolite core,False,0,0.465,Oolite core,Complete
+Random Forest,UPL,28-2,UPL_28-2,4,Oolite Rim,Oolite Rim,True,0,0.635,Oolite Rim,Complete
+Random Forest,UPL,29-1,UPL_29-1,5,Oolite Rim,Oolite core,False,0,0.455,Oolite core,Complete
+Random Forest,UPL,29-2,UPL_29-2,5,Oolite Rim,Oolite core,False,0,0.485,Oolite core,Complete
+Random Forest,UPL,23-1,UPL_23-1,1,Pellet Core,Pellet Core,True,0,0.42,Pellet Core,Complete
+Random Forest,UPL,23-2,UPL_23-2,5,Pellet Core,Pellet Rim,False,0,0.395,Pellet Rim,Complete
+Random Forest,UPL,24-1,UPL_24-1,4,Pellet Core,Oolite Rim,False,0,0.33,Oolite Rim,Complete
+Random Forest,UPL,24-2,UPL_24-2,4,Pellet Core,Pellet Core,True,0,0.485,Pellet Core,Complete
+Random Forest,UPL,25-1,UPL_25-1,2,Pellet Core,Pellet Core,True,0,0.395,Pellet Core,Complete
+Random Forest,UPL,25-2,UPL_25-2,3,Pellet Core,Pellet Rim,False,0,0.4,Pellet Rim,Complete
+Random Forest,UPL,27-1,UPL_27-1,3,Pellet Core,Pellet Core,True,0,0.415,Pellet Core,Complete
+Random Forest,UPL,27-2,UPL_27-2,5,Pellet Core,Oolite core,False,0,0.32,Oolite core,Complete
+Random Forest,UPL,27-3,UPL_27-3,1,Pellet Core,Pellet Rim,False,0,0.625,Pellet Rim,Complete
+Random Forest,UPL,24-1,UPL_24-1,4,Pellet Rim,Oolite core,False,0,0.49,Oolite core,Complete
+Random Forest,UPL,24-2,UPL_24-2,4,Pellet Rim,Pellet Rim,True,0,0.295,Pellet Rim,Complete
+Random Forest,UPL,24-3,UPL_24-3,4,Pellet Rim,Pellet Core,False,0,0.345,Pellet Core,Complete
+Random Forest,UPL,27-1,UPL_27-1,3,Pellet Rim,Pellet Rim,True,0,0.475,Pellet Rim,Complete
+Random Forest,UPL,27-2,UPL_27-2,5,Pellet Rim,Pellet Rim,True,0,0.58,Pellet Rim,Complete
+Random Forest,UPL,27-3,UPL_27-3,1,Pellet Rim,Pellet Core,False,0,0.535,Pellet Core,Complete
+Random Forest,UPL,29-1,UPL_29-1,5,Pellet Rim,Oolite core,False,0,0.555,Oolite core,Complete
+Random Forest,UPL,29-2,UPL_29-2,5,Pellet Rim,Oolite core,False,0,0.61,Oolite core,Complete
+Random Forest,UPL,29-3,UPL_29-3,2,Pellet Rim,Pellet Core,False,0,0.45,Pellet Core,Complete
+SVM,LPL,2-1,LPL_2-1,4,Oolite core,Oolite core,True,0,0.3060799678579658,Oolite core,Complete
+SVM,LPL,2-2,LPL_2-2,2,Oolite core,Pellet Core,False,0,0.3614044895522593,Pellet Core,Complete
+SVM,LPL,2-3,LPL_2-3,3,Oolite core,Oolite Rim,False,0,0.5761853744945683,Oolite core,Complete
+SVM,LPL,5-1,LPL_5-1,3,Oolite core,Oolite core,True,0,0.4243005184842896,Oolite core,Complete
+SVM,LPL,5-2,LPL_5-2,1,Oolite core,Oolite core,True,0,0.3461373822086034,Pellet Rim,Complete
+SVM,LPL,5-3,LPL_5-3,1,Oolite core,Oolite core,True,0,0.39667597877730054,Oolite core,Complete
+SVM,LPL,6-1,LPL_6-1,2,Oolite core,Oolite Rim,False,0,0.4899466619491783,Oolite core,Complete
+SVM,LPL,6-2,LPL_6-2,1,Oolite core,Oolite core,True,0,0.4982024192951792,Oolite core,Complete
+SVM,LPL,4-1,LPL_4-1,4,Oolite Rim,Oolite core,False,0,0.5656148995127728,Oolite core,Complete
+SVM,LPL,4-2,LPL_4-2,2,Oolite Rim,Oolite Rim,True,0,0.48351369934754773,Oolite Rim,Complete
+SVM,LPL,7-1,LPL_7-1,3,Oolite Rim,Oolite Rim,True,0,0.5394666800791886,Oolite core,Complete
+SVM,LPL,7-2,LPL_7-2,2,Oolite Rim,Oolite core,False,0,0.5530981499729936,Oolite core,Complete
+SVM,LPL,8-1,LPL_8-1,4,Oolite Rim,Oolite core,False,0,0.4623624810870196,Oolite core,Complete
+SVM,LPL,8-2,LPL_8-2,1,Oolite Rim,Oolite Rim,True,0,0.576963814183325,Oolite core,Complete
+SVM,LPL,4-1,LPL_4-1,4,Pellet Core,Oolite core,False,0,0.3205877427877823,Pellet Core,Complete
+SVM,LPL,4-2,LPL_4-2,2,Pellet Core,Oolite core,False,0,0.5311398187502039,Oolite core,Complete
+SVM,LPL,5-1,LPL_5-1,3,Pellet Core,Oolite Rim,False,0,0.5085214742464162,Oolite core,Complete
+SVM,LPL,9-1,LPL_9-1,5,Pellet Rim,Pellet Core,False,0,0.28747342913828505,Pellet Rim,Complete
+SVM,LPL,9-2,LPL_9-2,4,Pellet Rim,Oolite core,False,0,0.35904083448219903,Oolite core,Complete
+SVM,LPL,6-1,LPL_6-1,2,Pellet Rim,Pellet Core,False,0,0.4010875217026705,Pellet Rim,Complete
+SVM,LPL,6-2,LPL_6-2,1,Pellet Rim,Pellet Core,False,0,0.33901223275902653,Pellet Rim,Complete
+SVM,MPL,11-1,MPL_11-1,1,Oolite core,Pellet Rim,False,0,0.31855022378013764,Pellet Rim,Complete
+SVM,MPL,11-2,MPL_11-2,3,Oolite core,Oolite core,True,0,0.3324310211275706,Oolite core,Complete
+SVM,MPL,12-1,MPL_12-1,4,Oolite core,Oolite core,True,0,0.33765253572945625,Pellet Core,Complete
+SVM,MPL,12-2,MPL_12-2,5,Oolite core,Oolite Rim,False,0,0.45308443329887377,Oolite core,Complete
+SVM,MPL,14-1,MPL_14-1,4,Oolite core,Oolite core,True,0,0.36184171011669475,Oolite core,Complete
+SVM,MPL,14-2,MPL_14-2,3,Oolite core,Oolite core,True,0,0.43378772682969685,Oolite core,Complete
+SVM,MPL,15-1,MPL_15-1,1,Oolite core,Oolite Rim,False,0,0.545943637504957,Oolite core,Complete
+SVM,MPL,15-2,MPL_15-2,5,Oolite core,Pellet Core,False,0,0.28127554864531895,Pellet Rim,Complete
+SVM,MPL,17-1,MPL_17-1,2,Oolite core,Oolite core,True,0,0.5178897167292494,Oolite core,Complete
+SVM,MPL,17-2,MPL_17-2,2,Oolite core,Oolite core,True,0,0.5167283198233296,Oolite core,Complete
+SVM,MPL,13-1,MPL_13-1,5,Oolite Rim,Oolite core,False,0,0.4432705735401734,Oolite core,Complete
+SVM,MPL,13-2,MPL_13-2,1,Oolite Rim,Oolite Rim,True,0,0.5557030610979021,Oolite core,Complete
+SVM,MPL,16-1,MPL_16-1,4,Oolite Rim,Pellet Core,False,0,0.2927296049903996,Pellet Core,Complete
+SVM,MPL,16-2,MPL_16-2,1,Oolite Rim,Oolite core,False,0,0.395688358910829,Oolite core,Complete
+SVM,MPL,18-1,MPL_18-1,2,Oolite Rim,Oolite Rim,True,0,0.4740625096653124,Oolite core,Complete
+SVM,MPL,18-2,MPL_18-2,2,Oolite Rim,Oolite core,False,0,0.5434552791159577,Oolite core,Complete
+SVM,MPL,20-1,MPL_20-1,3,Oolite Rim,Oolite core,False,0,0.3386212028878835,Oolite core,Complete
+SVM,MPL,13-1,MPL_13-1,5,Pellet Core,Oolite core,False,0,0.2950041381102319,Oolite core,Complete
+SVM,MPL,13-2,MPL_13-2,1,Pellet Core,Pellet Rim,False,0,0.47975040115655954,Pellet Rim,Complete
+SVM,MPL,14-1,MPL_14-1,4,Pellet Core,Pellet Rim,False,0,0.5372256815465756,Pellet Core,Complete
+SVM,MPL,14-2,MPL_14-2,3,Pellet Core,Pellet Core,True,0,0.4965344207463723,Pellet Rim,Complete
+SVM,MPL,15-1,MPL_15-1,1,Pellet Core,Pellet Rim,False,0,0.4802606313560043,Pellet Core,Complete
+SVM,MPL,15-2,MPL_15-2,5,Pellet Core,Oolite core,False,0,0.2885799567015915,Pellet Core,Complete
+SVM,MPL,17-1,MPL_17-1,2,Pellet Core,Pellet Rim,False,0,0.4053821705239406,Pellet Rim,Complete
+SVM,MPL,17-2,MPL_17-2,2,Pellet Core,Pellet Rim,False,0,0.42804314430572654,Pellet Rim,Complete
+SVM,MPL,19-1,MPL_19-1,2,Pellet Rim,Oolite Rim,False,0,0.5045404633967192,Oolite core,Complete
+SVM,MPL,19-2,MPL_19-2,2,Pellet Rim,Pellet Core,False,0,0.408456654117263,Pellet Rim,Complete
+SVM,MPL,20-1,MPL_20-1,3,Pellet Rim,Pellet Core,False,0,0.5848700226410473,Pellet Rim,Complete
+SVM,MPL,20-2,MPL_20-2,1,Pellet Rim,Pellet Core,False,0,0.4925231498659859,Pellet Rim,Complete
+SVM,MPL,20-3,MPL_20-3,1,Pellet Rim,Pellet Rim,True,0,0.5562603831256097,Pellet Core,Complete
+SVM,MPL,21-1,MPL_21-1,3,Pellet Rim,Pellet Core,False,0,0.5527333779339176,Pellet Rim,Complete
+SVM,MPL,21-2,MPL_21-2,4,Pellet Rim,Pellet Core,False,0,0.378867918748905,Pellet Core,Complete
+SVM,MPL,21-3,MPL_21-3,3,Pellet Rim,Pellet Core,False,0,0.4655583895010877,Pellet Rim,Complete
+SVM,UPL,22-1,UPL_22-1,5,Oolite core,Oolite core,True,0,0.2958197222498427,Pellet Core,Complete
+SVM,UPL,22-2,UPL_22-2,3,Oolite core,Oolite core,True,0,0.41748253142605485,Oolite core,Complete
+SVM,UPL,22-3,UPL_22-3,3,Oolite core,Oolite Rim,False,0,0.48253141992621595,Oolite core,Complete
+SVM,UPL,23-1,UPL_23-1,1,Oolite core,Oolite core,True,0,0.375066680876617,Oolite core,Complete
+SVM,UPL,23-2,UPL_23-2,5,Oolite core,Oolite core,True,0,0.49325142240300973,Oolite core,Complete
+SVM,UPL,23-3,UPL_23-3,2,Oolite core,Oolite core,True,0,0.5279203175992364,Oolite core,Complete
+SVM,UPL,24-1,UPL_24-1,4,Oolite core,Oolite core,True,0,0.49230270197697706,Oolite core,Complete
+SVM,UPL,24-2,UPL_24-2,4,Oolite core,Oolite core,True,0,0.4751891659517197,Oolite core,Complete
+SVM,UPL,24-3,UPL_24-3,4,Oolite core,Pellet Core,False,0,0.33459144330799845,Pellet Core,Complete
+SVM,UPL,25-1,UPL_25-1,2,Oolite core,Oolite core,True,0,0.49687211257717107,Oolite core,Complete
+SVM,UPL,25-2,UPL_25-2,3,Oolite core,Oolite Rim,False,0,0.48409419222670297,Oolite core,Complete
+SVM,UPL,25-3,UPL_25-3,5,Oolite core,Oolite core,True,0,0.5329602246883479,Oolite core,Complete
+SVM,UPL,26-1,UPL_26-1,5,Oolite core,Oolite core,True,0,0.5120953405517873,Oolite core,Complete
+SVM,UPL,26-2,UPL_26-2,1,Oolite core,Oolite Rim,False,0,0.5943970517227654,Oolite core,Complete
+SVM,UPL,28-1,UPL_28-1,2,Oolite core,Oolite core,True,0,0.3144231557964293,Pellet Core,Complete
+SVM,UPL,28-2,UPL_28-2,4,Oolite core,Oolite core,True,0,0.42137967697719386,Oolite Rim,Complete
+SVM,UPL,29-1,UPL_29-1,5,Oolite core,Oolite core,True,0,0.33474951925108465,Oolite core,Complete
+SVM,UPL,22-1,UPL_22-1,5,Oolite Rim,Oolite core,False,0,0.4286326654640574,Oolite core,Complete
+SVM,UPL,22-2,UPL_22-2,3,Oolite Rim,Oolite core,False,0,0.4258959635538761,Oolite core,Complete
+SVM,UPL,23-1,UPL_23-1,1,Oolite Rim,Oolite Rim,True,0,0.5086293102483799,Oolite core,Complete
+SVM,UPL,23-2,UPL_23-2,5,Oolite Rim,Oolite core,False,0,0.536545387889875,Oolite core,Complete
+SVM,UPL,25-1,UPL_25-1,2,Oolite Rim,Oolite Rim,True,0,0.42590699299290535,Oolite core,Complete
+SVM,UPL,25-2,UPL_25-2,3,Oolite Rim,Oolite Rim,True,0,0.4740250978511991,Oolite core,Complete
+SVM,UPL,26-1,UPL_26-1,5,Oolite Rim,Oolite core,False,0,0.526233558758619,Oolite core,Complete
+SVM,UPL,26-2,UPL_26-2,1,Oolite Rim,Oolite core,False,0,0.30690677371910213,Oolite core,Complete
+SVM,UPL,27-1,UPL_27-1,3,Oolite Rim,Oolite Rim,True,0,0.5460591520168313,Oolite core,Complete
+SVM,UPL,27-2,UPL_27-2,5,Oolite Rim,Oolite core,False,0,0.5002500247148822,Oolite core,Complete
+SVM,UPL,28-1,UPL_28-1,2,Oolite Rim,Oolite core,False,0,0.45098285158876067,Oolite core,Complete
+SVM,UPL,28-2,UPL_28-2,4,Oolite Rim,Oolite Rim,True,0,0.615972152538058,Oolite core,Complete
+SVM,UPL,29-1,UPL_29-1,5,Oolite Rim,Oolite core,False,0,0.5174184890395721,Oolite core,Complete
+SVM,UPL,29-2,UPL_29-2,5,Oolite Rim,Oolite core,False,0,0.48181218498914596,Oolite core,Complete
+SVM,UPL,23-1,UPL_23-1,1,Pellet Core,Oolite core,False,0,0.32781224131470893,Pellet Rim,Complete
+SVM,UPL,23-2,UPL_23-2,5,Pellet Core,Oolite core,False,0,0.3042760835080995,Oolite core,Complete
+SVM,UPL,24-1,UPL_24-1,4,Pellet Core,Pellet Core,True,0,0.2979912771750174,Pellet Rim,Complete
+SVM,UPL,24-2,UPL_24-2,4,Pellet Core,Pellet Rim,False,0,0.45578834452656586,Pellet Core,Complete
+SVM,UPL,25-1,UPL_25-1,2,Pellet Core,Oolite core,False,0,0.3380877264297201,Oolite core,Complete
+SVM,UPL,25-2,UPL_25-2,3,Pellet Core,Pellet Rim,False,0,0.3068856606899724,Pellet Rim,Complete
+SVM,UPL,27-1,UPL_27-1,3,Pellet Core,Pellet Core,True,0,0.45768820615252004,Pellet Rim,Complete
+SVM,UPL,27-2,UPL_27-2,5,Pellet Core,Oolite core,False,0,0.3013036551393733,Oolite core,Complete
+SVM,UPL,27-3,UPL_27-3,1,Pellet Core,Pellet Rim,False,0,0.54203886139038,Pellet Core,Complete
+SVM,UPL,24-1,UPL_24-1,4,Pellet Rim,Oolite Rim,False,0,0.4968959188816727,Oolite core,Complete
+SVM,UPL,24-2,UPL_24-2,4,Pellet Rim,Oolite core,False,0,0.29876649159425883,Pellet Core,Complete
+SVM,UPL,24-3,UPL_24-3,4,Pellet Rim,Pellet Core,False,0,0.28370970951440827,Pellet Core,Complete
+SVM,UPL,27-1,UPL_27-1,3,Pellet Rim,Pellet Rim,True,0,0.47099248911981584,Pellet Rim,Complete
+SVM,UPL,27-2,UPL_27-2,5,Pellet Rim,Pellet Rim,True,0,0.5499582743925135,Pellet Core,Complete
+SVM,UPL,27-3,UPL_27-3,1,Pellet Rim,Pellet Core,False,0,0.40866455106480387,Pellet Rim,Complete
+SVM,UPL,29-1,UPL_29-1,5,Pellet Rim,Oolite core,False,0,0.40995585060531226,Oolite core,Complete
+SVM,UPL,29-2,UPL_29-2,5,Pellet Rim,Oolite core,False,0,0.44176568121279625,Oolite core,Complete
+SVM,UPL,29-3,UPL_29-3,2,Pellet Rim,Pellet Core,False,0,0.469446835787714,Pellet Rim,Complete

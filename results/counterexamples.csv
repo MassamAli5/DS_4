@@ -1,0 +1,22 @@
+Stratigraphic_unit,Point_ID,Actual,Logistic_Regression,Random_Forest,SVM
+LPL,2-3,Oolite core,Oolite core,Oolite Rim,Oolite Rim
+LPL,6-2,Oolite core,Oolite core,Oolite Rim,Oolite core
+LPL,8-1,Oolite Rim,Oolite Rim,Oolite core,Oolite core
+MPL,15-1,Oolite core,Oolite core,Oolite core,Oolite Rim
+MPL,13-1,Oolite Rim,Oolite Rim,Oolite core,Oolite core
+MPL,13-2,Pellet Core,Pellet Core,Pellet Rim,Pellet Rim
+MPL,14-2,Pellet Core,Pellet Core,Pellet Rim,Pellet Core
+MPL,15-1,Pellet Core,Pellet Core,Pellet Rim,Pellet Rim
+UPL,23-3,Oolite core,Oolite core,Oolite Rim,Oolite core
+UPL,24-3,Oolite core,Oolite core,Oolite Rim,Pellet Core
+UPL,25-3,Oolite core,Oolite core,Oolite Rim,Oolite core
+UPL,22-1,Oolite Rim,Oolite Rim,Oolite Rim,Oolite core
+UPL,22-2,Oolite Rim,Oolite Rim,Oolite Rim,Oolite core
+UPL,23-2,Oolite Rim,Oolite Rim,Oolite core,Oolite core
+UPL,25-2,Oolite Rim,Oolite Rim,Oolite core,Oolite Rim
+UPL,26-1,Oolite Rim,Oolite Rim,Oolite core,Oolite core
+UPL,27-2,Oolite Rim,Oolite Rim,Oolite core,Oolite core
+UPL,28-1,Oolite Rim,Oolite Rim,Oolite core,Oolite core
+UPL,29-2,Oolite Rim,Oolite Rim,Oolite core,Oolite core
+UPL,23-1,Pellet Core,Pellet Core,Pellet Core,Oolite core
+UPL,24-3,Pellet Rim,Pellet Rim,Pellet Core,Pellet Core

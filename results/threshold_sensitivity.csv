@@ -1,0 +1,6 @@
+Scenario,Review_Capacity,Error_Cost,Selected_Model,Threshold,Reviews,Wrong_Automatic,Total_Cost
+Baseline,0.2,5,SVM,0.3345914433079985,20,44,240.0
+Lower capacity,0.1,5,SVM,0.30130365513937335,10,51,265.0
+Higher capacity,0.3,5,SVM,0.36140448955225934,28,38,218.0
+Lower error cost,0.2,3,SVM,0.3345914433079985,20,44,152.0
+Higher error cost,0.2,10,SVM,0.3345914433079985,20,44,460.0

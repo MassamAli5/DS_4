@@ -1,0 +1,87 @@
+
+/* DS-A4 Academic Report Formatting */
+
+body {
+    font-family: "Times New Roman", serif;
+    font-size: 12pt;
+    color: #000000;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+/* Main report title */
+h1 {
+    font-family: "Times New Roman", serif;
+    font-size: 18pt;
+    font-weight: bold;
+    text-align: center;
+    color: #000000;
+}
+
+/* Main section headings */
+h2 {
+    font-family: "Times New Roman", serif;
+    font-size: 14pt;
+    font-weight: bold;
+    text-align: left;
+    color: #000000;
+}
+
+/* Subheadings */
+h3 {
+    font-family: "Times New Roman", serif;
+    font-size: 12pt;
+    font-weight: bold;
+    text-align: left;
+    color: #000000;
+}
+
+/* Normal paragraphs */
+p, li {
+    font-family: "Times New Roman", serif;
+    font-size: 12pt;
+    font-weight: normal;
+    color: #000000;
+    text-align: justify;
+}
+
+/* Tables */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 12px auto;
+    font-family: "Times New Roman", serif;
+    font-size: 10pt;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 6px;
+    text-align: center;
+    color: #000000;
+}
+
+th {
+    font-weight: bold;
+}
+
+/* Figures */
+img {
+    display: block;
+    max-width: 90%;
+    max-height: 220mm;
+    margin: 12px auto;
+}
+
+/* Figure captions */
+figcaption {
+    text-align: center;
+    font-family: "Times New Roman", serif;
+    font-size: 10pt;
+}
+
+/* Page setup */
+@page {
+    size: A4;
+    margin: 20mm 22mm 20mm 22mm;
+}

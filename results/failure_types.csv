@@ -1,0 +1,35 @@
+Model,Actual,Predicted,Count
+Logistic Regression,Oolite core,Oolite Rim,13
+Logistic Regression,Pellet Rim,Pellet Core,11
+Logistic Regression,Pellet Core,Pellet Rim,10
+Logistic Regression,Oolite Rim,Oolite core,6
+Logistic Regression,Oolite core,Pellet Rim,6
+Logistic Regression,Pellet Rim,Oolite core,4
+Logistic Regression,Pellet Core,Oolite Rim,3
+Logistic Regression,Pellet Core,Oolite core,3
+Logistic Regression,Oolite Rim,Pellet Rim,2
+Logistic Regression,Oolite core,Pellet Core,2
+Logistic Regression,Pellet Rim,Oolite Rim,2
+Logistic Regression,Oolite Rim,Pellet Core,1
+Random Forest,Oolite Rim,Oolite core,15
+Random Forest,Oolite core,Oolite Rim,15
+Random Forest,Pellet Core,Pellet Rim,9
+Random Forest,Pellet Rim,Pellet Core,9
+Random Forest,Pellet Rim,Oolite core,5
+Random Forest,Oolite core,Pellet Core,3
+Random Forest,Pellet Core,Oolite core,3
+Random Forest,Oolite Rim,Pellet Core,2
+Random Forest,Oolite core,Pellet Rim,2
+Random Forest,Pellet Core,Oolite Rim,2
+Random Forest,Pellet Rim,Oolite Rim,1
+SVM,Oolite Rim,Oolite core,16
+SVM,Pellet Rim,Pellet Core,12
+SVM,Pellet Core,Oolite core,8
+SVM,Pellet Core,Pellet Rim,8
+SVM,Oolite core,Oolite Rim,7
+SVM,Pellet Rim,Oolite core,4
+SVM,Oolite core,Pellet Core,3
+SVM,Pellet Rim,Oolite Rim,2
+SVM,Oolite Rim,Pellet Core,1
+SVM,Oolite core,Pellet Rim,1
+SVM,Pellet Core,Oolite Rim,1
