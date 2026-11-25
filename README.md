@@ -113,11 +113,11 @@ The threshold analysis uses explicitly stated illustrative error costs and human
 
 ## 8. Data and AI-use Integrity
 
-Original measurements and evaluation assignments are retained. Failed runs, negative results, and relevant limitations should be documented.
+Original measurements and evaluation assignments are retained. Document failed runs, negative results, and relevant limitations.
 
 AI assistance and independent verification are documented separately in the project logs.
 
-## 9. Assignment Deliverables
+## 9. Deliverables
 
 The repository is intended to contain:
 
@@ -130,5 +130,3 @@ The repository is intended to contain:
 - Final PDF report.
 - Python dependency record.
 - AI-use and verification log.
-
-**Assignment:** DS-A4 — Model Comparison and Calibration Lab.
