@@ -258,6 +258,5 @@ The analysis used Python 3.13.9, with dependencies recorded in `requirements.txt
 
 The notebook and README should consistently identify the source workbook at `data/Supplementray_Files.xlsx`. Final reproducibility requires successful execution from a restarted kernel using the documented environment and dataset location.
 
-OpenAI assist with code, troubleshooting. Notebook execution, local file management, and Git operations were carried out by my own. The AI-use record should reflect these contributions.
-
+OpenAI assist with code, troubleshooting, while Notebook execution, local file management, and Git operations were carried out by my own.
 **Data reference:** Ali et al. (2025), *Journal of Asian Earth Sciences*, DOI: 10.1016/j.jseaes.2025.106927.
