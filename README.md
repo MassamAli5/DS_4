@@ -4,8 +4,7 @@
 
 This project compares three classification models using a frozen evaluation protocol. The objective is to evaluate predictive performance, probability calibration, classification errors, and threshold-based decision-making under limited human review capacity.
 
-Course: Data Science
-Assignment: DS-A4 — Model Comparison and Calibration Lab
+** Model Comparison and Calibration Lab
 
 ## 2. Dataset and Provenance
 
